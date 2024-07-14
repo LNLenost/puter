@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.5.0](https://github.com/LNLenost/puter/compare/v2.4.0...v2.5.0) (2024-07-14)
+
+
+### Features
+
+* JSON support for kv driver ([3ed7916](https://github.com/LNLenost/puter/commit/3ed7916856f03eafbe0891f2ab39c34d20d2bd24))
+* update BR translation ([42a6b39](https://github.com/LNLenost/puter/commit/42a6b3938a588b8b4d1bd976c37e9c6e58408c75))
+
+
+### Bug Fixes
+
+* read_only fields in ES ([e8f4c32](https://github.com/LNLenost/puter/commit/e8f4c328bff5c36b95fe460b80803e12e619f8ee))
+* remove flag that breaks puter-js webpack ([7aadae5](https://github.com/LNLenost/puter/commit/7aadae58ce1a51f925bf64c3d65ac1fa6971b164))
+* **security:** hoist acl check in ll_read ([6a2fbc1](https://github.com/LNLenost/puter/commit/6a2fbc1925952ecceed741afe138270d1eeda7b7))
+
 ## v2.4.1 (2024-07-11)
 
 ### Puter
